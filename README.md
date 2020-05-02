@@ -21,7 +21,7 @@ Test Analysts need to first apply static testing techniques like reviews, walkth
 ## Test design techniques
 * [Equivalence Partitioning](equivalence_partitioning.md)
 * [Boundary Value Analysis](boundary_value_analysis.md)
-* Decision Table
+* [Decision Table](decision_table.md)
 * State Transition
 * Exploratory Testing
 * Error Guessing
