@@ -22,7 +22,7 @@ Test Analysts need to first apply static testing techniques like reviews, walkth
 * [Equivalence Partitioning](equivalence_partitioning.md)
 * [Boundary Value Analysis](boundary_value_analysis.md)
 * [Decision Table](decision_table.md)
-* State Transition
+* [State Transition](starte_transition.md)
 * Exploratory Testing
 * Error Guessing
 
