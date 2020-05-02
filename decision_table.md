@@ -17,7 +17,7 @@ The **Actions** performed are Displaying **home page** and Displaying an **error
 
 
 | ID | Conditions/Actions | test case 1 | test case 2 | test case 3 | test case 4 |
-|----|--------------------|-------------|------------|-------------|------------|
+|---|---|---|---|---|---|
 | condition 1| valid user id | T | T | F | F |
 | condition 2| valid password | T | F | T | F |
 | action 1| home page | execute | | | |
@@ -31,7 +31,7 @@ From the case 2 and case 3, we could identify that if one of the condition faile
 So I am eliminating one of the test case from case 2 and case 3 and concluding with the below tabular column.
 
 | ID | Conditions/Actions | test case 1 | test case 2 | test case 3 |
-|----|--------------------|-------------|------------|-------------|
+|---|---|---|---|---|---|
 | condition 1| valid user id | T | T | F |
 | condition 2| valid password | T | F | F |
 | action 1| home page | execute | | |
