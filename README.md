@@ -18,5 +18,11 @@ Test designing requires detailed analysis and understanding of requirements.
 Test Analysts need to first apply static testing techniques like reviews, walkthroughs to understand the requirements in detail.
 
 
-
+## Test design techniques
+* [Equivalence Partitioning](equivalence_partitioning.md)
+* Boundary Value Analysis
+* Decision Table
+* State Transition
+* Exploratory Testing
+* Error Guessing
 
