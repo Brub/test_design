@@ -1,4 +1,4 @@
-# Equivalence Partitioning
+# Equivalence Partitioning Test Case Design Technique
 
 Equivalence Partitioning Test case design technique is one of the Black Box test design techniques.
 

@@ -1,4 +1,4 @@
-# Boundary Value Analysis (BVA)
+# Boundary Value Analysis Test Case Design Technique (BVA)
 
 Equivalence Partitioning Test case design technique is one of the Black Box test design techniques.
 
